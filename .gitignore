@@ -1,0 +1,29 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Java compiled files
+*.class
+
+# Maven
+target/
+*.jar
+
+# Tomcat
+work/
+temp/
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+application-local.properties
